@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/aren-cllc/CylinderAddons)](https://github.com/aren-cllc/CylinderAddons/blob/master/LICENSE)[![GitHub issues](https://img.shields.io/github/issues/aren-cllc/CylinderAddons)](https://github.com/aren-cllc/CylinderAddons/issues)
+[![GitHub license](https://img.shields.io/github/license/aren-cllc/CylinderAddons)](https://github.com/aren-cllc/CylinderAddons/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/aren-cllc/CylinderAddons)](https://github.com/aren-cllc/CylinderAddons/issues)
 # CylinderAddons
 This project adds a bunch of effects to Cylinder, some of which
 are actually nice in our opinion, others are just there as a
