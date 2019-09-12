@@ -1,0 +1,8 @@
+Architecture: iphoneos-arm
+Author: RedChair & Akribes
+Depends: com.r333d.cylinder
+Description: Some extra transitions for Cylinder
+Name: CylinderAddons
+Package: club.red-chair.cylinderaddons
+Section: Tweaks
+Version: 0.1
