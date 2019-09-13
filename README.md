@@ -9,7 +9,7 @@ You have two options for installing this. However, you'll probably
 want to install from source, so you can use new effects.
 
 ### For Cydia users
-We have set up a reposotory that you can import with Cydia.
+We have set up a repository that you can import with Cydia.
 1. Visit https://red-chair.club/cydia/index.html.
 2. Click the link. This will open Cydia and add our repository.
 3. Search for CylinderAddons and install it.
