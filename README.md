@@ -5,13 +5,18 @@ are actually nice in our opinion, others are just there as a
 joke. Enjoy, I guess.
 
 ## Installing
-Eventually we might do GitHub releases, but for the time being, go ahead and build it yourself.
+You have two options for installing this. However, you'll probably
+want to install from source, so you can use new effects.
 
-## Building
-Run these commands as with root privileges to get a `.deb` file from the project root:
-```
-dpkg -b club.red-chair.cylinderaddons
-dpkg -i club.red-chair.cylinderaddons.deb
-```
+### For Cydia users
+We have set up a reposotory that you can import with Cydia.
+1. Visit [https://red-chair.club/cydia/index.html].
+2. Click the link. This will open Cydia and add our repository.
+3. Search for CylinderAddons and install it.
 
-to be continued
+### Installing from source
+1. Clone this repository.
+2. `cd` into the project root.
+3. Run `./installer.sh i` and enter the root password when asked for.
+
+# to be continued
