@@ -1,4 +1,4 @@
--- Move the icons to a circle in the centre of the screen.
+-- Move the icons to a circle around some distance above the screen an rotate icons on that circle.
 return function(page, offset, screen_width, screen_height)
     local percent = offset / screen_width
     
