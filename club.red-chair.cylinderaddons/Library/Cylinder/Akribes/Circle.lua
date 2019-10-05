@@ -2,7 +2,7 @@
 return function(page, offset, screen_width, screen_height)
     local percent = math.abs(offset / screen_width)
     local prog1 = math.min(1, 3 * percent)
-    local prog2 = math.min(1, -3 * percent + 3)
+    local prog2 = math.min(1, math.max(0, -3 * percent + 2))
 
     local r = math.min(screen_width, screen_height) / 4
 
